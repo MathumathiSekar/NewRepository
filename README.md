@@ -1,0 +1,2 @@
+# NewRepository
+Training Git Sample
